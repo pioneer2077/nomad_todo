@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nomad_todo/static/css/main.abd64e84.css",
+    "main.js": "/nomad_todo/static/js/main.892b720c.js",
+    "static/js/787.4b7f8352.chunk.js": "/nomad_todo/static/js/787.4b7f8352.chunk.js",
+    "index.html": "/nomad_todo/index.html",
+    "main.abd64e84.css.map": "/nomad_todo/static/css/main.abd64e84.css.map",
+    "main.892b720c.js.map": "/nomad_todo/static/js/main.892b720c.js.map",
+    "787.4b7f8352.chunk.js.map": "/nomad_todo/static/js/787.4b7f8352.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.892b720c.js"
+  ]
+}
